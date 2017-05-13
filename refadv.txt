@@ -1,0 +1,120 @@
+\bibitem
+{{3GPP TR38.913 V14.2.0}, "Study on Scenarios and Requirements for Next Generation Access Technologies},"\emph{3rd Generation Partnership Project (3GPP)}, 2017
+
+\bibitem
+, , 
+
+\bibitem
+{Grinter, Rebecca E and Palen, Leysia}, "Instant messaging in teen life},"\emph{Proceedings of the 2002 ACM conference on Computer supported cooperative work}, pp. 21--30, 2002
+
+\bibitem
+{Xiao, Zhen and Guo, Lei and Tracey, John}, "Understanding instant messaging traffic characteristics},"\emph{27th IEEE International Conference on Distributed Computing Systems}, pp. 51--51, 2007
+
+\bibitem
+, , 
+
+\bibitem
+, , 
+
+\bibitem
+{Benjebbour, A. and Saito, Y. and Kishiyama, Y. and Li, A.}, "Concept and practical considerations of non-orthogonal multiple access (NOMA) for future radio access},"\emph{International Symposium on Intelligent Signal Processing and Communications Systems}, pp. 770-774, 2013
+
+\bibitem
+{Sun, Qi and Han, Shuangfeng and Chin-Lin, I and Pan, Zhengang}, "On the Ergodic Capacity of MIMO NOMA Systems},"\emph{IEEE Wireless Communication Letters}, vol. 4, no. 4, pp. 1-1, 2015
+
+\bibitem
+{Saito, Yuya and Kishiyama, Yoshihisa and Benjebbour, Anass and Nakamura, Takehiro and Li, Anxin and Higuchi, Kenichi}, "Non-orthogonal multiple access (NOMA) for cellular future radio access},"\emph{77th IEEE Vehicular Technology Conference (VTC Spring)}, pp. 1--5, 2013
+
+\bibitem
+{Dai, Linglong and Wang, Bichai and Yuan, Yifei and Han, Shuangfeng and Chih-Lin, I and Wang, Zhaocheng}, "Non-orthogonal multiple access for 5G: solutions, challenges, opportunities, and future research trends},"\emph{IEEE Communications Magazine}, vol. 53, no. 9, pp. 74--81, 2015
+
+\bibitem
+, , 
+
+\bibitem
+{Zhang, Ningbo and Wang, Jing and Kang, Guixia and Liu, Yang}, "Uplink Nonorthogonal Multiple Access in 5G Systems},"\emph{IEEE Communications Letters}, vol. 20, no. 3, pp. 458--461, 2016
+
+\bibitem
+{Islam, SM Riazul and Avazov, Nurilla and Dobre, Octavia A and Kwak, Kyung-Sup}, "Power-Domain Non-Orthogonal Multiple Access (NOMA) in 5G Systems: Potentials and Challenges},"\emph{IEEE Communications Surveys \& Tutorials}, 2016
+
+\bibitem
+, , 
+
+\bibitem
+, , 
+
+\bibitem
+{Nikopour, Hosein and Baligh, Hadi}, "Sparse code multiple access},"\emph{24th IEEE International Symposium on Personal Indoor and Mobile Radio Communications (PIMRC)}, pp. 332--336, 2013
+
+\bibitem
+, , 
+
+\bibitem
+{Yuan, Zhifeng and Yu, Guanghui and Li, Weimin and Yuan, Yifei and Wang, Xinhui and Xu, Jun}, "Multi-User Shared Access for Internet of Things},"\emph{83rd IEEE Vehicular Technology Conference (VTC Spring)}, pp. 1--5, 2016
+
+\bibitem
+{Ding, Zhiguo and Yang, Zheng and Fan, Pingzhi and Poor, H Vincent}, "On the performance of non-orthogonal multiple access in 5G systems with randomly deployed users},"\emph{IEEE Signal Processing Letters}, vol. 21, no. 12, pp. 1501--1505, 2014
+
+\bibitem
+, , 
+
+\bibitem
+{Wunder, Gerhard and Jung, Peter and Wang, Chen}, "Compressive random access for post-LTE systems},"\emph{IEEE International Conference on Communications Workshops (ICC)}, pp. 539--544, 2014
+
+\bibitem
+{Donoho, David L}, "Compressed sensing},"\emph{IEEE Transactions on information theory}, vol. 52, no. 4, pp. 1289--1306, 2006
+
+\bibitem
+, , 
+
+\bibitem
+{Bockelmann, Carsten and Schepker, Henning F and Dekorsy, Armin}, "Compressive sensing based multi-user detection for machine-to-machine communication},"\emph{Transactions on Emerging Telecommunications Technologies}, vol. 24, no. 4, pp. 389--400, 2013
+
+\bibitem
+{Yu, Wei and Rhee, Wonjong and Boyd, Stephen and Cioffi, John M}, "Iterative water-filling for Gaussian vector multiple-access channels},"\emph{IEEE Transactions on Information Theory}, vol. 50, no. 1, pp. 145--152, 2004
+
+\bibitem
+{Ding, Zhiguo and Schober, Robert and Poor, H Vincent}, "A general MIMO framework for NOMA downlink and uplink transmission based on signal alignment},"\emph{IEEE Transactions on Wireless Communications}, vol. 15, no. 6, pp. 4438--4454, 2016
+
+\bibitem
+, , 
+
+\bibitem
+{Xie, Ronggui and Yin, Huarui and Chen, Xiaohui and Wang, Zhengdao}, "Many access for small packets based on precoding and sparsity-aware recovery},"\emph{IEEE Transactions on Communications}, vol. 64, no. 11, pp. 4680--4694, 2016
+
+\bibitem
+, , 
+
+\bibitem
+{Al-Imari, Mohammed and Xiao, Pei and Imran, Muhammad Ali and Tafazolli, Rahim}, "Uplink non-orthogonal multiple access for 5G wireless networks},"\emph{2014 11th IEEE International Symposium on Wireless Communications Systems (ISWCS)}, pp. 781--785, 2014
+
+\bibitem
+, , 
+
+\bibitem
+, , 
+
+\bibitem
+{Rusek and Fredrik and Lau and Kiong, Buon and Marzetta and Edfors}, "Scaling Up MIMO},"\emph{IEEE Signal Processing Magazine}, vol. 30, no. 1, pp. 40-60, 2013
+
+\bibitem
+, , 
+
+\bibitem
+, , 
+
+\bibitem
+{Tulino, Antonio M and Verd and Sergio}, "Random matrix theory and wireless communications},"\emph{Communications \& Information Theory}, vol. 1, no. 1, pp. 1-182, 2004
+
+\bibitem
+, , 
+
+\bibitem
+, , 
+
+\bibitem
+{Chen, Xu and Guo, Dongning}, "Gaussian many-access channels: Definition and symmetric capacity},"\emph{Information Theory Workshop}, pp. 1-5, 2013
+
+\bibitem
+{Chen, Xu and Guo, Dongning}, "Many-access channels: The Gaussian case with random user activities},"\emph{IEEE International Symposium on Information Theory}, pp. 3127-3131, 2014
+
